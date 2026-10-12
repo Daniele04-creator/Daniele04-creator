@@ -40,6 +40,6 @@ Applicazione web per creare e risolvere enigmi sulle espressioni regolari. Offre
 
 **Progetto della tesi di laurea**
 
-Assistente basato su modelli linguistici che risponde alle domande usando i documenti e citando le fonti. Usa il RAG, cioè il recupero di informazioni dai documenti prima della generazione, e sostituisce i dati sensibili riconosciuti con alias temporanei prima di inviarli al modello remoto.
+Assistente documentale basato su RAG contestuale con meccanismi di privacy preserving, per interrogare archivi documentali tramite LLM riducendo l'esposizione dei dati sensibili ai servizi di generazione remota. La pipeline integra indicizzazione ed embedding locali, pseudonimizzazione con alias temporanei e ricostruzione locale delle risposte, corredate dalle fonti documentali.
 
 **Tecnologie:** TypeScript, Node.js, Python, Oracle, Docker.
