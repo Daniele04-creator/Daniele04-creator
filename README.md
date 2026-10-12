@@ -2,8 +2,6 @@
 
 Sono un **neolaureato in Informatica** e frequento la laurea magistrale in Informatica all'**Università degli Studi di Napoli Federico II**, con specializzazione in **Intelligenza Artificiale**.
 
-Mi interessano lo sviluppo software e l'AI, in particolare i modelli linguistici e le applicazioni che li integrano. Qui raccolgo i progetti realizzati durante il mio percorso universitario.
-
 ## I miei progetti
 
 ### [BugBoard26](https://github.com/Daniele04-creator/BugBoard26)
