@@ -2,7 +2,7 @@
 
 Sono un **neolaureato in Informatica** e frequento la laurea magistrale in Informatica all'**Università degli Studi di Napoli Federico II**, con specializzazione in **Intelligenza Artificiale**.
 
-## I miei progetti
+## Progetti universitari
 
 ### [BugBoard26](https://github.com/Daniele04-creator/BugBoard26)
 
