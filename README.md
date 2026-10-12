@@ -20,14 +20,6 @@ Applicazione desktop per organizzare corsi di cucina, sessioni e adesioni dei pa
 
 **Tecnologie:** Java, JavaFX, PostgreSQL, JDBC, Maven, Docker.
 
-### [Assistente documentale con RAG e tutela dei dati](https://github.com/Daniele04-creator/privacy-preserving-rag-thesis)
-
-**Progetto della tesi di laurea**
-
-Assistente basato su modelli linguistici che risponde alle domande usando i documenti e citando le fonti. Usa il RAG, cioè il recupero di informazioni dai documenti prima della generazione, e sostituisce i dati sensibili riconosciuti con alias temporanei prima di inviarli al modello remoto.
-
-**Tecnologie:** TypeScript, Node.js, Python, Oracle, Docker.
-
 ### [Forza4](https://github.com/Daniele04-creator/Forza4)
 
 **Esame di Laboratorio di Sistemi Operativi — 30/30**
@@ -43,3 +35,11 @@ Gioco Forza 4 con server e client collegati in rete. Gestisce più partite, rich
 Applicazione web per creare e risolvere enigmi sulle espressioni regolari. Offre feedback sui tentativi, profili utente e una classifica per imparare e mettere alla prova le proprie conoscenze.
 
 **Tecnologie:** Angular, TypeScript, Node.js, PostgreSQL, Prisma, Docker.
+
+### [Assistente documentale con RAG e tutela dei dati](https://github.com/Daniele04-creator/privacy-preserving-rag-thesis)
+
+**Progetto della tesi di laurea**
+
+Assistente basato su modelli linguistici che risponde alle domande usando i documenti e citando le fonti. Usa il RAG, cioè il recupero di informazioni dai documenti prima della generazione, e sostituisce i dati sensibili riconosciuti con alias temporanei prima di inviarli al modello remoto.
+
+**Tecnologie:** TypeScript, Node.js, Python, Oracle, Docker.
