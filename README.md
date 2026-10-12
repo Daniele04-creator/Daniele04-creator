@@ -8,7 +8,7 @@ Mi interessano lo sviluppo software e l'AI, in particolare i modelli linguistici
 
 ### [BugBoard26](https://github.com/Daniele04-creator/BugBoard26)
 
-**Esame di Ingegneria del Software**
+**Esame di Ingegneria del Software — 30/30**
 
 Applicazione web per gestire bug, richieste e nuove funzionalità di un progetto software. Permette di assegnare il lavoro, seguirne lo stato e collaborare attraverso commenti, notifiche e report.
 
@@ -16,7 +16,7 @@ Applicazione web per gestire bug, richieste e nuove funzionalità di un progetto
 
 ### [UninaFoodLab](https://github.com/Daniele04-creator/UninaFoodLab)
 
-**Progetto per gli esami di Basi di Dati e Programmazione Object Oriented**
+**Progetto per gli esami di Basi di Dati e Programmazione Object Oriented — 30/30**
 
 Applicazione desktop per organizzare corsi di cucina, sessioni e adesioni dei partecipanti. Gestisce ricette e ingredienti e calcola le quantità necessarie in base alle presenze, aiutando a pianificare le preparazioni e ridurre gli sprechi.
 
@@ -32,7 +32,7 @@ Assistente basato su modelli linguistici che risponde alle domande usando i docu
 
 ### [Forza4](https://github.com/Daniele04-creator/Forza4)
 
-**Esame di Laboratorio di Sistemi Operativi**
+**Esame di Laboratorio di Sistemi Operativi — 30/30**
 
 Gioco Forza 4 con server e client collegati in rete. Gestisce più partite, richieste di ingresso e rivincite, applicando i concetti di comunicazione tra processi e programmazione di rete.
 
@@ -40,7 +40,7 @@ Gioco Forza 4 con server e client collegati in rete. Gestisce più partite, rich
 
 ### [RegexRiddle](https://github.com/Daniele04-creator/RegexRiddle)
 
-**Esame di Tecnologie Web**
+**Esame di Tecnologie Web — 30/30**
 
 Applicazione web per creare e risolvere enigmi sulle espressioni regolari. Offre feedback sui tentativi, profili utente e una classifica per imparare e mettere alla prova le proprie conoscenze.
 
